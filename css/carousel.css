@@ -31,25 +31,6 @@ body {
 	border-radius: 10px;
 }
 
-.a {
-	transform: rotateX(0deg) translateZ(72px);
-}
-.b {
-	transform: rotateX(36deg) translateZ(72px);
-}
-.c {
-	transform: rotateX(72deg) translateZ(72px);
-}
-.d {
-	transform: rotateX(108deg) translateZ(72px);
-}
-.e {
-	transform: rotateX(144deg) translateZ(72px);
-}
-.f {
-	transform: rotateX(180deg) translateZ(72px);
-}
-
 .next, .prev {
 	position: absolute;
 	top: 100px;
